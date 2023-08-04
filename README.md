@@ -10,10 +10,9 @@ Here are some ideas to get you started:
 ### Hey, I'm Amelia!
 # Welcome to my Github! 💕
 - ✨ Passionate about Graphic Design and Computer Science
-- 🏋️‍♀️ I'm currently building and designing a [gym booking app](https://github.com/osu28/gym_reservation)
 - 📚 Class of 2026 Computer Science [@UF](https://www.ufl.edu/)
 - 📍 Based in Jacksonville FL
-- 👀 Open to summer 2023 internships
+- 👀 Open to summer 2024 internships
 
 
 [![](https://img.shields.io/badge/-LinkedIn-9ED5F4?style=flat-square)](http://linkedin.com/in/ameliareeves04)
