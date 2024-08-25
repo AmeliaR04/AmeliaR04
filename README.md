@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ✨ Passionate about Graphic Design and Computer Science
 - 📚 Class of 2026 Computer Science [@UF](https://www.ufl.edu/)
 - 📍 Based in Jacksonville FL
-- 👀 Open to summer 2024 internships
+- 👀 Open to summer 2025 internships
 
 
 [![](https://img.shields.io/badge/-LinkedIn-9ED5F4?style=flat-square)](http://linkedin.com/in/ameliareeves04)
