@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 # Welcome to my Github! 💕
 - ✨ Passionate about Graphic Design and Computer Science
 - 📚 Class of 2026 Computer Science [@UF](https://www.ufl.edu/)
-- 📍 Based in Jacksonville FL
+- 📍 Based in Gainesville FL
 
 
 [![](https://img.shields.io/badge/-LinkedIn-9ED5F4?style=flat-square)](http://linkedin.com/in/ameliareeves04)
